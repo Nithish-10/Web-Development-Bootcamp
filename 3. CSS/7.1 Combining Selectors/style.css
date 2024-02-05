@@ -1,0 +1,24 @@
+/* Write your code here: */
+/*GROUP*/
+h1,h2{
+    color: blueviolet;
+}
+/*PARENT > CHILD*/
+.box > p{
+    color: firebrick;
+}
+/* DESCENDENT 
+Selector Selector */
+.box li{
+    color: blue;
+}
+/* CHAINED
+Selector.Selector */
+li.done{
+    color: seagreen;
+}
+/* MULTIPLE COMBINERS 
+Selector Selector.Selector */
+ul p.done{
+    font-size: 0.5rem;
+}
