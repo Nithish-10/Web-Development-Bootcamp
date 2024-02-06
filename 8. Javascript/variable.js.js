@@ -1,0 +1,10 @@
+//var myName="Nithish";
+//alert(myName);
+//var yourName = prompt("What is your Name?");
+//alert("My name is"+myName+", Welcome to my course "+yourName+"!");
+var myName="Nithish";
+var yourName="Sathish";
+var myvar="abc";
+var my123=123;
+var abc123$_="nithish";
+var my_name="Nithish";
